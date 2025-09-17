@@ -22,3 +22,4 @@ const masculino = true // boolean
 
 const frutas = ["melancia", "laranaja", "maça"]
 console.log(frutas [2])
+
